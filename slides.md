@@ -1,87 +1,178 @@
-# The presentation template
-
-## MaptimeCalgary
-This is the first slide.
-
-_Press `F` to go full-screen._<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
-
-
-
-## Follow along
-These slides are created with Reveal.js + Markdown.
-
-Take a look at the [raw source for the slides](https://raw.githubusercontent.com/MaptimeCalgary/presentation-example/gh-pages/slides.md). The repo can be found [here](https://github.com/MaptimeCalgary/presentation-example).
-
-
-
-## This is a new slide
-Create these by placing 3 line-breaks in the markdown source.
-
-_From here, you can move `LEFT`, `RIGHT`, or `DOWN`._ <!-- .element: class="fragment" data-fragment-index="0" -->
-
-_Try `DOWN`._ <!-- .element: class="fragment" data-fragment-index="1" -->
-
-
-## This is a vertical-slide
-You make these by placing 2 line-breaks within the source.
-
-Vertical-slides are good for drilling in to topics. Think of it as a _details_ slide. If you're short on time, you can skip past these slides by moving `RIGHT`.
-
-
-
-## You can put images in a slide
-
-![alt text](assets/logo.png "Logo Title Text 1")
-
 ![external image](https://raw.githubusercontent.com/maptime/maptime.github.io/master/img/xmaptime-logo-web-header-rainbonly.png.pagespeed.ic.sUvy41gYSf.png "External Image Example")
 
+## Community Edu in Open Geo
 
+[@MaptimeSEA](https://twitter.com/MaptimeSEA)
 
-<!-- .slide: data-background="MintCream" -->
-## Style
-
-You can style each slide individually.
-
-_Cool background, right?_<!-- .element: class="fragment" data-fragment-index="1" -->
-```
-<!-- .slide: data-background="MintCream" -->
-## Style
-
-You can style each slide individually.
-```
+[Christy Heaton](https://twitter.com/christytoes) & [Andrew Powers](https://twitter.com/p0wersa)
 
 
 
-## Hey, it even supports code!
-
-```
-var marker = L.marker([49, 5.49]).addTo(map);
-var polygon = L.polygon([
-  [51.509, -0.08],
-  [51.503, -0.06],
-  [51.51, -0.047]
-]).addTo(map);
-marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
-polygon.bindPopup("I am a polygon.");
-```
+## Overview
+[maptimesea.github.io/gis-day-2015/](http://maptimesea.github.io/gis-day-2015/)
 
 
+## a year in review
 
-## Want to see something _really_ crazy?
 
-Press `S` to check out the 'Presentation Mode'.
+## maptime around the world
 
-Note:
-The idea is that you put the other window on a shared screen, like a projector, and view this screen on your laptop. Btw, this note is only visible to the presenter.
+
+## where we are headed
 
 
 
-## That's about it
+## What is MaptimeSEA
 
-There are a bunch of cool things you can do with **Reveal.js** and **Markdown**.
+_free technology workshops_ <!-- .element: class="fragment" data-fragment-index="0" -->
 
-Check out Reveal.js' [example slides](http://lab.hakim.se/reveal-js/) for more quick examples of what you can do with Reveal.js.  Check out Reveal.js' [Readme](https://github.com/hakimel/reveal.js/blob/master/README.md) and its [wiki](https://github.com/hakimel/reveal.js/wiki) (especially the [Articles & Tutorials](https://github.com/hakimel/reveal.js/wiki/Articles-&-Tutorials) section) for greater detail about using Reveal.js.  
+_free and open source technology_ <!-- .element: class="fragment" data-fragment-index="1" -->
 
-Check out this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a quick intro into using Markdown.
+_everything we do targets beginners_ <!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+
+## Talk is cheap
+
+_In the last year we..._ <!-- .element: class="fragment" data-fragment-index="0" -->
+
+
+### grew from 3 to 307
+
+
+### hosted 10 workshops
+
+
+### mapped for Humanitarian Open Street Map
+
+
+### facilitated project nights
+
+
+### advocated for beginners...
+
+see [CUGOS Spring Fling](http://cugos.org/2015-spring-fling/)
+
+
+
+## Our Focus
+
+_beginners_ <!-- .element: class="fragment" data-fragment-index="0" -->
+
+_Free and Open Source Software_ <!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+## What is FOSS?
+
+
+## Is FOSS for Beginners?
+
+_we're a little biased..._ <!-- .element: class="fragment" data-fragment-index="0" -->
+
+_but the answer is YES!_ <!-- .element: class="fragment" data-fragment-index="1" -->
+
+_although it can be slightly more complicated_ <!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+## The Practice and Perception
+
+_FOSS is created by experts for experts_ <!-- .element: class="fragment" data-fragment-index="0" -->
+
+
+## Our Goal
+
+Make FOSS more accessible to beginners through education and participation in FOSS design/direction!
+
+
+
+## How is this Relevant?
+
+
+## Where we Come From (academically)
+
+
+## Where we Come From (professionally)
+
+
+## Cascadia Users of Geospatial Open Source
+
+[cugos.org](http://cugos.org/)
+
+Note: Engage the local community
+
+
+
+## Go Global
+
+
+## Maptime Around the World
+
+
+## Early Origins
+
+
+## Stats
+
+Note: Give out a sticker prize to the person who gets closest to the estimate
+
+## Highlight Awesome Projects
+
+
+
+## What can this community do?
+
+
+## Support Beginners in FOSS
+
+
+## Advocate in established forums
+
+
+## Mobilize for good
+
+HOT OSM
+
+
+
+## What comes next
+
+
+## QGIS series
+
+
+## Project Nights
+
+
+## More Volunteer Instructors
+
+
+## Reusable Tutorial Development
+
+
+## Unconferences
+
+
+
+## Call to Action
+
+
+## Get Involved
+
+_volunteer to instruct_ <!-- .element: class="fragment" data-fragment-index="0" -->
+
+_host an event in your space_ <!-- .element: class="fragment" data-fragment-index="1" -->
+
+_participate in our open learning community!_ <!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+## Hand Drawn Maps
+
+
+
+# Thanks
+
+[@MaptimeSEA](https://twitter.com/MaptimeSEA)
+
+[Christy Heaton](https://twitter.com/christytoes) & [Andrew Powers](https://twitter.com/p0wersa)
+
+### Questions?
