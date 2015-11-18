@@ -46,7 +46,7 @@ And finally, how you can get involved, and we can learn new things together!
 
 _free technology workshops_ <!-- .element: class="fragment" data-fragment-index="0" -->
 
-_free and open source technology_ <!-- .element: class="fragment" data-fragment-index="1" -->
+_free and open source software_ <!-- .element: class="fragment" data-fragment-index="1" -->
 
 _everything we do targets beginners_ <!-- .element: class="fragment" data-fragment-index="2" -->
 
@@ -88,21 +88,31 @@ see [CUGOS Spring Fling](http://cugos.org/2015-spring-fling/)
 
 ## Our Focus
 
-_beginners_ <!-- .element: class="fragment" data-fragment-index="0" -->
+Note: Christy:
+The focus of our group like Andrew said, is
 
-_Free and Open Source Software_ <!-- .element: class="fragment" data-fragment-index="1" -->
 
-Note: Christy
-The focus of our group like Andrew said, is beginners! And anyone else! We welcome people of any skill level who have an interest in learing open source mapping technologies. We want our workshops to be accessible to all. We do not assume any existing skill set, and strive to provide a supportive and encouraging environment for all.
-In the same vain, we use free software. We think that no one should have to purchase software just to learn something new, and that they should be able to take work home and practice more. So our workshops use software anyone can download free of charge.
+## Beginners
+Note: Christy:
+beginners! And anyone else! We welcome people of any skill level who have an interest in learing open source mapping technologies. We want our workshops to be accessible to all. We do not assume any existing skill set, and strive to provide a supportive and encouraging environment for all.
+
+
+## Free and Open Source Software
+
+Note: Christy:
+In the same vain, we use free software. We think that no one should have to buy software just to learn something, and that they should be able to take work home and practice more. So our workshops use software anyone can download free of charge.
 
 
 ## What is FOSS?
-Note: Christy
+
+Note: Christy: 
 Free and open source software is free, as in its free of charge. And it is also open, as in the source code is accessible to all. Users are encouraged to contribute, fix bugs, implement new features and the like.
 
 
 ![alt text](assets/Tools.png "Tools!")
+
+Note: Christy:
+Here are some of the foss tools we use in maptime. For every proprietary geospatial software, there is likely an open source option too. and not only software, but data, like open street map.
 
 
 ## Is FOSS for Beginners?
