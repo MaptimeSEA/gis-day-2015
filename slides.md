@@ -97,7 +97,7 @@ Make FOSS more accessible to beginners through education and participation in FO
 
 ## How is this Relevant?
 
-Note: Christy
+Note: Andrew
 
 
 ## Where we Come From (academically)
