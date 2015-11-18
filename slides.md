@@ -15,10 +15,13 @@
 ## a year in review
 
 
-## maptime around the world
+## Maptime Around the World
 
 
-## where we are headed
+## Where we are Headed
+
+
+## Where you fit In
 
 
 
@@ -30,6 +33,7 @@ _free and open source technology_ <!-- .element: class="fragment" data-fragment-
 
 _everything we do targets beginners_ <!-- .element: class="fragment" data-fragment-index="2" -->
 
+Note: raise your hand if you've used a map? raise your hand if you've made a map? Raise your hand if you are an educator? Raise hand if you're a student? have you heard of maptime? Been to a maptime? raise your hand if you want to learn new things? do you use foss on a daily basis?
 
 
 ## Talk is cheap
@@ -101,6 +105,9 @@ Make FOSS more accessible to beginners through education and participation in FO
 Note: Engage the local community
 
 
+## So then there was MaptimeSEA!
+
+
 
 ## Go Global
 
@@ -147,9 +154,6 @@ HOT OSM
 
 
 ## Reusable Tutorial Development
-
-
-## Unconferences
 
 
 
