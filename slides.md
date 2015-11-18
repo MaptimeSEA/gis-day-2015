@@ -6,10 +6,14 @@
 
 [Christy Heaton](https://twitter.com/christytoes) & [Andrew Powers](https://twitter.com/p0wersa)
 
+Note: Christy
+
 
 
 ## Overview
 [maptimesea.github.io/gis-day-2015/](http://maptimesea.github.io/gis-day-2015/)
+
+Note: Christy
 
 
 ## a year in review
@@ -33,7 +37,7 @@ _free and open source technology_ <!-- .element: class="fragment" data-fragment-
 
 _everything we do targets beginners_ <!-- .element: class="fragment" data-fragment-index="2" -->
 
-Note: raise your hand if you've used a map? raise your hand if you've made a map? Raise your hand if you are an educator? Raise hand if you're a student? have you heard of maptime? Been to a maptime? raise your hand if you want to learn new things? do you use foss on a daily basis?
+Note: Andrew raise your hand if you've used a map? raise your hand if you've made a map? Raise your hand if you are an educator? Raise hand if you're a student? have you heard of maptime? Been to a maptime? raise your hand if you want to learn new things? do you use foss on a daily basis?
 
 
 ## Talk is cheap
@@ -65,6 +69,8 @@ _beginners_ <!-- .element: class="fragment" data-fragment-index="0" -->
 
 _Free and Open Source Software_ <!-- .element: class="fragment" data-fragment-index="1" -->
 
+Note: Christy
+
 
 ## What is FOSS?
 
@@ -90,6 +96,8 @@ Make FOSS more accessible to beginners through education and participation in FO
 
 
 ## How is this Relevant?
+
+Note: Christy
 
 
 ## Where we Come From (academically)
@@ -128,6 +136,8 @@ Note: Give out a sticker prize to the person who gets closest to the estimate
 
 ## What can this community do?
 
+Note: Christy
+
 
 ## Support Beginners in FOSS
 
@@ -142,6 +152,8 @@ HOT OSM
 
 
 ## What comes next
+
+Note: Christy
 
 
 ## QGIS series
@@ -158,6 +170,8 @@ HOT OSM
 
 
 ## Call to Action
+
+Note: Christy/Andrew
 
 
 ## Get Involved
