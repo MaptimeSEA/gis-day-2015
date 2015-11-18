@@ -103,6 +103,9 @@ Free and open source software is free, as in its free of charge. And it is also 
 
 ![alt text](assets/Tools.png "Tools!")
 
+Note: Christy:
+Talk about not only software, but data, like open street map.
+
 
 ## Is FOSS for Beginners?
 
