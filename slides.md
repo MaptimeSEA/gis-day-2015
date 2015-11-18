@@ -41,6 +41,7 @@ Note: Christy
 And finally, how you can get involved, and we can learn new things together!
 
 
+
 ## What is MaptimeSEA
 
 _free technology workshops_ <!-- .element: class="fragment" data-fragment-index="0" -->
