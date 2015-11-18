@@ -42,7 +42,7 @@ And finally, how you can get involved, and we can learn new things together!
 
 
 
-## What is MaptimeSEA
+# What is MaptimeSEA?
 
 _free technology workshops_ <!-- .element: class="fragment" data-fragment-index="0" -->
 
@@ -86,7 +86,7 @@ see [CUGOS Spring Fling](http://cugos.org/2015-spring-fling/)
 
 
 
-## Our Focus
+# Our Focus
 
 Note: Christy:
 The focus of our group like Andrew said, is
@@ -105,7 +105,7 @@ In the same vain, we use free software. We think that no one should have to buy 
 
 ## What is FOSS?
 
-Note: Christy: 
+Note: Christy:
 Free and open source software is free, as in its free of charge. And it is also open, as in the source code is accessible to all. Users are encouraged to contribute, fix bugs, implement new features and the like.
 
 
@@ -138,7 +138,7 @@ Make FOSS more accessible to beginners through education and participation in FO
 
 
 
-## How is this Relevant?
+# How is this Relevant?
 
 Note: Andrew
 
@@ -231,7 +231,7 @@ MaptimeMSP: NACIS 2015
 
 
 
-## What can this community do?
+# What can this community do?
 
 Note: Christy
 The community aspect is a big deal. Together we can make things change!
@@ -258,7 +258,7 @@ We can give back by mobilizing when their is a crisis. We used the skills we lea
 
 
 
-## What comes next
+# What comes next?
 
 Note: Christy
 We've got some great stuff coming up in 2016.
@@ -288,7 +288,7 @@ We'll also be working on building reusable tutorials. We can share these with ot
 
 
 
-## Call to Action
+# Call to Action
 
 Note: Andrew
 Where do you come in?
