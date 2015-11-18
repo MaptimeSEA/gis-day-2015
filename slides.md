@@ -45,19 +45,21 @@ Note: Andrew raise your hand if you've used a map? raise your hand if you've mad
 _In the last year we..._ <!-- .element: class="fragment" data-fragment-index="0" -->
 
 
-### grew from 3 to 307
+## grew from 3 to 309
+
+![alt text](assets/Members.png "Friends!")
 
 
-### hosted 10 workshops
+## hosted 10 workshops
 
 
-### mapped for Humanitarian Open Street Map
+## mapped for Humanitarian Open Street Map
 
 
-### facilitated project nights
+## facilitated project nights
 
 
-### advocated for beginners...
+## advocated for beginners...
 
 see [CUGOS Spring Fling](http://cugos.org/2015-spring-fling/)
 
@@ -73,6 +75,9 @@ Note: Christy
 
 
 ## What is FOSS?
+
+
+![alt text](assets/Tools.png "Tools!")
 
 
 ## Is FOSS for Beginners?
@@ -119,6 +124,8 @@ Note: Engage the local community
 
 ## Go Global
 
+[![alt text](assets/ChapterMap.png "Chapters!")](http://maptime.io/chapters/)
+
 
 ## Maptime Around the World
 
@@ -129,6 +136,7 @@ Note: Engage the local community
 ## Stats
 
 Note: Give out a sticker prize to the person who gets closest to the estimate
+
 
 ## Highlight Awesome Projects
 
@@ -184,6 +192,8 @@ _participate in our open learning community!_ <!-- .element: class="fragment" da
 
 
 ## Hand Drawn Maps
+
+[![alt text](assets/HandDrawn.png "Meetup!")](http://www.meetup.com/MaptimeSEA/events/226830042/)
 
 
 
