@@ -180,6 +180,7 @@ Note: Christy
 We can give back by mobilizing when their is a crisis. We used the skills we learned on how to contribute to open street map to add buildings and roads after the major Nepal earthquake. You may not feel up to contributing code fixes and functionality, but this is another way to give back.
 
 
+
 ## What comes next
 
 Note: Christy
@@ -207,6 +208,7 @@ We're also looking to get more volunteer instructors to give workshops. There ar
 
 Note: Christy
 We'll also be working on building reusable tutorials. We can share these with other maptime groups or encourage people to work on them even if they can't make it to the maptime event.
+
 
 
 ## Call to Action
