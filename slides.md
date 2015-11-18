@@ -104,7 +104,7 @@ Free and open source software is free, as in its free of charge. And it is also 
 ![alt text](assets/Tools.png "Tools!")
 
 Note: Christy:
-Talk about not only software, but data, like open street map.
+Here are some of the foss tools we use in maptime. For every proprietary geospatial software, there is likely an open source option too. and not only software, but data, like open street map.
 
 
 ## Is FOSS for Beginners?
