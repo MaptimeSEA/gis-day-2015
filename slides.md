@@ -46,7 +46,7 @@ And finally, how you can get involved, and we can learn new things together!
 
 _free technology workshops_ <!-- .element: class="fragment" data-fragment-index="0" -->
 
-_free and open source technology_ <!-- .element: class="fragment" data-fragment-index="1" -->
+_free and open source software_ <!-- .element: class="fragment" data-fragment-index="1" -->
 
 _everything we do targets beginners_ <!-- .element: class="fragment" data-fragment-index="2" -->
 
@@ -89,7 +89,7 @@ Note: Christy:
 beginners! And anyone else! We welcome people of any skill level who have an interest in learing open source mapping technologies. We want our workshops to be accessible to all. We do not assume any existing skill set, and strive to provide a supportive and encouraging environment for all.
 
 
-#Free and Open Source Software
+## Free and Open Source Software
 
 Note: Christy:
 In the same vain, we use free software. We think that no one should have to buy software just to learn something, and that they should be able to take work home and practice more. So our workshops use software anyone can download free of charge.
