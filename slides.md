@@ -243,12 +243,6 @@ Note: Christy
 We can help beginners learn to use FOSS and expand their arsenal of tools.
 
 
-## Advocate in established forums
-
-Note: Christy
-We can promote openness and accessibilty in exisintg forums.
-
-
 ## Mobilize for good
 
 HOT OSM
@@ -296,11 +290,13 @@ Where do you come in?
 
 ## Get Involved
 
-_volunteer to instruct_ <!-- .element: class="fragment" data-fragment-index="0" -->
+_join our [meetup page](http://www.meetup.com/MaptimeSEA/)_ <!-- .element: class="fragment" data-fragment-index="0" -->
 
-_host an event in your space_ <!-- .element: class="fragment" data-fragment-index="1" -->
+_volunteer to instruct_ <!-- .element: class="fragment" data-fragment-index="1" -->
 
-_participate in our open learning community!_ <!-- .element: class="fragment" data-fragment-index="2" -->
+_host an event in your space_ <!-- .element: class="fragment" data-fragment-index="2" -->
+
+_participate in our open learning community!_ <!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ## Hand Drawn Maps
