@@ -7,13 +7,13 @@
 [Christy Heaton](https://twitter.com/christytoes) & [Andrew Powers](https://twitter.com/p0wersa)
 
 Note: Christy
-Introduce selves. We're happy to be back at UW GIS Day again talking about community education using open source geospatial technology and this great group called maptime Seattle. 
+Introduce selves. We're happy to be back at UW GIS Day again talking about community education using open source geospatial technology and this great group called maptime Seattle.
 
 
 ## Overview
 [maptimesea.github.io/gis-day-2015/](http://maptimesea.github.io/gis-day-2015/)
 
-Note: Christy 
+Note: Christy
 Here's a quick overview about what we'll be talking about.
 
 
@@ -65,14 +65,22 @@ _In the last year we..._ <!-- .element: class="fragment" data-fragment-index="0"
 
 ## hosted 10 workshops
 
+![alt text](assets/Tutorials.png "Tutorials!")
+
 
 ## mapped for Humanitarian Open Street Map
+
+![alt text](assets/NepalMapping.png "Map!")
 
 
 ## facilitated project nights
 
+![alt text](assets/ProjectNight.jpg "Proj!")
+
 
 ## advocated for beginners...
+
+![alt text](assets/Fling.jpg "Fling!")
 
 see [CUGOS Spring Fling](http://cugos.org/2015-spring-fling/)
 
@@ -133,6 +141,8 @@ Note: Andrew
 
 ## Cascadia Users of Geospatial Open Source
 
+![alt text](assets/Fling_02.jpg "Fling!")
+
 [cugos.org](http://cugos.org/)
 
 Note: Engage the local community
@@ -150,15 +160,64 @@ Note: Engage the local community
 ## Maptime Around the World
 
 
+![alt text](assets/Summit.jpg "Summit!")
+
+_Summit!_ <!-- .element: class="fragment" data-fragment-index="0" -->
+
+
+![alt text](assets/MaptimeBerlin.jpg "Berlin!")
+
+_Berlin!_ <!-- .element: class="fragment" data-fragment-index="0" -->
+
+
+![alt text](assets/MaptimeDC.jpg "DC!")
+
+_DC!_ <!-- .element: class="fragment" data-fragment-index="0" -->
+
+
+![alt text](assets/MaptimePHL_02.jpg "Philadelphia!")
+
+_Philadelphia!_ <!-- .element: class="fragment" data-fragment-index="0" -->
+
+
+![alt text](assets/MaptimeMilan.jpg "Milan!")
+
+_Milano!_ <!-- .element: class="fragment" data-fragment-index="0" -->
+
+
+![alt text](assets/MaptimeSEA.jpg "Seattle!")
+
+_Seattle!_ <!-- .element: class="fragment" data-fragment-index="0" -->
+
+
 ## Early Origins
 
 
-## Stats
+## How many chapters?
+
+_80!_ <!-- .element: class="fragment" data-fragment-index="0" -->
 
 Note: Give out a sticker prize to the person who gets closest to the estimate
 
 
-## Highlight Awesome Projects
+## 50 Chapters on meetup.com...
+
+How many members?
+
+_8,669!_ <!-- .element: class="fragment" data-fragment-index="0" -->
+
+
+## Awesome Projects
+
+
+![alt text](assets/MaptimeLA.png "MaptimeLA!")
+
+MaptimeLA: California GIS Contacts
+
+
+![alt text](assets/MaptimeMSP.png "MaptimeMSP!")
+
+MaptimeMSP: NACIS 2015
 
 
 
@@ -192,7 +251,7 @@ We can give back by mobilizing when their is a crisis. We used the skills we lea
 ## What comes next
 
 Note: Christy
-We've got some great stuff coming up in 2016. 
+We've got some great stuff coming up in 2016.
 
 
 ## QGIS series
@@ -204,7 +263,7 @@ We're developing q series of workshops on QGIS. QGIS, if you haven't heard of it
 ## Project Nights
 
 Note: Christy
-Our project nights have been wildly successful, so we're planning on doing a lot more of those. Not only is it less work for the organizers, but it turns out a lot of people just want to learn something new and need the environment to do so. Other things you can do are install different software, or reformat something you did for work that your boss won't give you time to do. 
+Our project nights have been wildly successful, so we're planning on doing a lot more of those. Not only is it less work for the organizers, but it turns out a lot of people just want to learn something new and need the environment to do so. Other things you can do are install different software, or reformat something you did for work that your boss won't give you time to do.
 
 
 ## More Volunteer Instructors
